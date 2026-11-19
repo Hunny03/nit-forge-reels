@@ -2,8 +2,17 @@ name: Daily Reels
 
 on:
   schedule:
-    - cron: '30 18 * * *'   # 18:30 UTC = 12:00 AM IST
-  workflow_dispatch:         # manual run button
+    - cron: '30 0 * * *'    # 06:00 AM IST
+    - cron: '30 5 * * *'    # 11:00 AM IST
+    - cron: '30 10 * * *'   # 04:00 PM IST
+    - cron: '30 15 * * *'   # 09:00 PM IST
+    - cron: '30 18 * * *'   # 12:00 AM IST
+  workflow_dispatch:
+    inputs:
+      reel_count:
+        description: 'Number of reels to generate in this run'
+        required: false
+        default: '25'
 
 permissions:
   contents: write
@@ -15,7 +24,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 180
     steps:
       - uses: actions/checkout@v4
 
@@ -35,19 +44,21 @@ jobs:
       - name: Python packages
         run: pip install -r requirements.txt
 
-      - name: Generate today's reel
+      - name: Generate reels batch
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_MODEL: ${{ vars.GROQ_MODEL }}
+          REEL_COUNT: ${{ github.event.inputs.reel_count || '25' }}
         run: python generate_reel.py
 
-      # One squashed commit each day keeps the repo small: old videos do not
-      # pile up in git history, only the latest 40 videos exist.
       - name: Commit and push
         run: |
           git config user.name "reels-bot"
           git config user.email "reels-bot@users.noreply.github.com"
-          git checkout --orphan clean-main
           git add -A
-          git commit -m "Daily reel $(date -u +%F)"
-          git push -f origin clean-main:main
+          if ! git diff --staged --quiet; then
+            git commit -m "Reels batch $(date -u +'%F %H:%M UTC')"
+            git push origin HEAD:main
+          fi

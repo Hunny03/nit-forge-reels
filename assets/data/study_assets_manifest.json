@@ -1,0 +1,200 @@
+[
+  {
+    "id": "01_sets_relations_functions",
+    "subject": "Maths",
+    "chapter": "Sets, Relations & Functions",
+    "formula_png": "assets/formulas/01_sets_relations_functions.png",
+    "formula_svg": "assets/formulas/01_sets_relations_functions.svg",
+    "mindmap_png": "assets/mindmaps/01_sets_relations_functions.png",
+    "mindmap_svg": "assets/mindmaps/01_sets_relations_functions.svg"
+  },
+  {
+    "id": "02_complex_numbers_quadratics",
+    "subject": "Maths",
+    "chapter": "Complex Numbers & Quadratics",
+    "formula_png": "assets/formulas/02_complex_numbers_quadratics.png",
+    "formula_svg": "assets/formulas/02_complex_numbers_quadratics.svg",
+    "mindmap_png": "assets/mindmaps/02_complex_numbers_quadratics.png",
+    "mindmap_svg": "assets/mindmaps/02_complex_numbers_quadratics.svg"
+  },
+  {
+    "id": "03_sequences_series",
+    "subject": "Maths",
+    "chapter": "Sequences & Series",
+    "formula_png": "assets/formulas/03_sequences_series.png",
+    "formula_svg": "assets/formulas/03_sequences_series.svg",
+    "mindmap_png": "assets/mindmaps/03_sequences_series.png",
+    "mindmap_svg": "assets/mindmaps/03_sequences_series.svg"
+  },
+  {
+    "id": "04_permutations_combinations",
+    "subject": "Maths",
+    "chapter": "Permutations & Combinations",
+    "formula_png": "assets/formulas/04_permutations_combinations.png",
+    "formula_svg": "assets/formulas/04_permutations_combinations.svg",
+    "mindmap_png": "assets/mindmaps/04_permutations_combinations.png",
+    "mindmap_svg": "assets/mindmaps/04_permutations_combinations.svg"
+  },
+  {
+    "id": "05_binomial_theorem",
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "formula_png": "assets/formulas/05_binomial_theorem.png",
+    "formula_svg": "assets/formulas/05_binomial_theorem.svg",
+    "mindmap_png": "assets/mindmaps/05_binomial_theorem.png",
+    "mindmap_svg": "assets/mindmaps/05_binomial_theorem.svg"
+  },
+  {
+    "id": "06_matrices_determinants",
+    "subject": "Maths",
+    "chapter": "Matrices & Determinants",
+    "formula_png": "assets/formulas/06_matrices_determinants.png",
+    "formula_svg": "assets/formulas/06_matrices_determinants.svg",
+    "mindmap_png": "assets/mindmaps/06_matrices_determinants.png",
+    "mindmap_svg": "assets/mindmaps/06_matrices_determinants.svg"
+  },
+  {
+    "id": "07_trigonometry_inverse_trig",
+    "subject": "Maths",
+    "chapter": "Trigonometry & Inverse Trig",
+    "formula_png": "assets/formulas/07_trigonometry_inverse_trig.png",
+    "formula_svg": "assets/formulas/07_trigonometry_inverse_trig.svg",
+    "mindmap_png": "assets/mindmaps/07_trigonometry_inverse_trig.png",
+    "mindmap_svg": "assets/mindmaps/07_trigonometry_inverse_trig.svg"
+  },
+  {
+    "id": "08_straight_lines_circles",
+    "subject": "Maths",
+    "chapter": "Straight Lines & Circles",
+    "formula_png": "assets/formulas/08_straight_lines_circles.png",
+    "formula_svg": "assets/formulas/08_straight_lines_circles.svg",
+    "mindmap_png": "assets/mindmaps/08_straight_lines_circles.png",
+    "mindmap_svg": "assets/mindmaps/08_straight_lines_circles.svg"
+  },
+  {
+    "id": "09_conic_sections",
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "formula_png": "assets/formulas/09_conic_sections.png",
+    "formula_svg": "assets/formulas/09_conic_sections.svg",
+    "mindmap_png": "assets/mindmaps/09_conic_sections.png",
+    "mindmap_svg": "assets/mindmaps/09_conic_sections.svg"
+  },
+  {
+    "id": "10_limits_continuity_differentiability",
+    "subject": "Maths",
+    "chapter": "Limits, Continuity & Differentiability",
+    "formula_png": "assets/formulas/10_limits_continuity_differentiability.png",
+    "formula_svg": "assets/formulas/10_limits_continuity_differentiability.svg",
+    "mindmap_png": "assets/mindmaps/10_limits_continuity_differentiability.png",
+    "mindmap_svg": "assets/mindmaps/10_limits_continuity_differentiability.svg"
+  },
+  {
+    "id": "11_indefinite_definite_integration",
+    "subject": "Maths",
+    "chapter": "Indefinite & Definite Integration",
+    "formula_png": "assets/formulas/11_indefinite_definite_integration.png",
+    "formula_svg": "assets/formulas/11_indefinite_definite_integration.svg",
+    "mindmap_png": "assets/mindmaps/11_indefinite_definite_integration.png",
+    "mindmap_svg": "assets/mindmaps/11_indefinite_definite_integration.svg"
+  },
+  {
+    "id": "12_area_under_curves_differential_equations",
+    "subject": "Maths",
+    "chapter": "Area Under Curves & Differential Equations",
+    "formula_png": "assets/formulas/12_area_under_curves_differential_equations.png",
+    "formula_svg": "assets/formulas/12_area_under_curves_differential_equations.svg",
+    "mindmap_png": "assets/mindmaps/12_area_under_curves_differential_equations.png",
+    "mindmap_svg": "assets/mindmaps/12_area_under_curves_differential_equations.svg"
+  },
+  {
+    "id": "13_vectors_3d_geometry",
+    "subject": "Maths",
+    "chapter": "Vectors & 3D Geometry",
+    "formula_png": "assets/formulas/13_vectors_3d_geometry.png",
+    "formula_svg": "assets/formulas/13_vectors_3d_geometry.svg",
+    "mindmap_png": "assets/mindmaps/13_vectors_3d_geometry.png",
+    "mindmap_svg": "assets/mindmaps/13_vectors_3d_geometry.svg"
+  },
+  {
+    "id": "14_probability_statistics",
+    "subject": "Maths",
+    "chapter": "Probability & Statistics",
+    "formula_png": "assets/formulas/14_probability_statistics.png",
+    "formula_svg": "assets/formulas/14_probability_statistics.svg",
+    "mindmap_png": "assets/mindmaps/14_probability_statistics.png",
+    "mindmap_svg": "assets/mindmaps/14_probability_statistics.svg"
+  },
+  {
+    "id": "15_number_systems_boolean_algebra_logic_gates",
+    "subject": "Computer",
+    "chapter": "Number Systems, Boolean Algebra & Logic Gates",
+    "formula_png": "assets/formulas/15_number_systems_boolean_algebra_logic_gates.png",
+    "formula_svg": "assets/formulas/15_number_systems_boolean_algebra_logic_gates.svg",
+    "mindmap_png": "assets/mindmaps/15_number_systems_boolean_algebra_logic_gates.png",
+    "mindmap_svg": "assets/mindmaps/15_number_systems_boolean_algebra_logic_gates.svg"
+  },
+  {
+    "id": "16_computer_organization_memory_os",
+    "subject": "Computer",
+    "chapter": "Computer Organization, Memory & OS",
+    "formula_png": "assets/formulas/16_computer_organization_memory_os.png",
+    "formula_svg": "assets/formulas/16_computer_organization_memory_os.svg",
+    "mindmap_png": "assets/mindmaps/16_computer_organization_memory_os.png",
+    "mindmap_svg": "assets/mindmaps/16_computer_organization_memory_os.svg"
+  },
+  {
+    "id": "17_dbms_sql_networking",
+    "subject": "Computer",
+    "chapter": "DBMS, SQL & Networking",
+    "formula_png": "assets/formulas/17_dbms_sql_networking.png",
+    "formula_svg": "assets/formulas/17_dbms_sql_networking.svg",
+    "mindmap_png": "assets/mindmaps/17_dbms_sql_networking.png",
+    "mindmap_svg": "assets/mindmaps/17_dbms_sql_networking.svg"
+  },
+  {
+    "id": "18_data_structures_programming_concepts",
+    "subject": "Computer",
+    "chapter": "Data Structures & Programming Concepts",
+    "formula_png": "assets/formulas/18_data_structures_programming_concepts.png",
+    "formula_svg": "assets/formulas/18_data_structures_programming_concepts.svg",
+    "mindmap_png": "assets/mindmaps/18_data_structures_programming_concepts.png",
+    "mindmap_svg": "assets/mindmaps/18_data_structures_programming_concepts.svg"
+  },
+  {
+    "id": "19_syllogisms_blood_relations_directions_coding",
+    "subject": "Reasoning",
+    "chapter": "Syllogisms, Blood Relations, Directions & Coding",
+    "formula_png": "assets/formulas/19_syllogisms_blood_relations_directions_coding.png",
+    "formula_svg": "assets/formulas/19_syllogisms_blood_relations_directions_coding.svg",
+    "mindmap_png": "assets/mindmaps/19_syllogisms_blood_relations_directions_coding.png",
+    "mindmap_svg": "assets/mindmaps/19_syllogisms_blood_relations_directions_coding.svg"
+  },
+  {
+    "id": "20_seating_puzzles_clocks_calendars_quant",
+    "subject": "Reasoning",
+    "chapter": "Seating, Puzzles, Clocks, Calendars & Quant",
+    "formula_png": "assets/formulas/20_seating_puzzles_clocks_calendars_quant.png",
+    "formula_svg": "assets/formulas/20_seating_puzzles_clocks_calendars_quant.svg",
+    "mindmap_png": "assets/mindmaps/20_seating_puzzles_clocks_calendars_quant.png",
+    "mindmap_svg": "assets/mindmaps/20_seating_puzzles_clocks_calendars_quant.svg"
+  },
+  {
+    "id": "21_tenses_subject_verb_agreement_conditionals",
+    "subject": "English",
+    "chapter": "Tenses, Subject-Verb Agreement & Conditionals",
+    "formula_png": "assets/formulas/21_tenses_subject_verb_agreement_conditionals.png",
+    "formula_svg": "assets/formulas/21_tenses_subject_verb_agreement_conditionals.svg",
+    "mindmap_png": "assets/mindmaps/21_tenses_subject_verb_agreement_conditionals.png",
+    "mindmap_svg": "assets/mindmaps/21_tenses_subject_verb_agreement_conditionals.svg"
+  },
+  {
+    "id": "22_active_passive_narration_articles_vocab",
+    "subject": "English",
+    "chapter": "Active-Passive, Narration, Articles & Vocab",
+    "formula_png": "assets/formulas/22_active_passive_narration_articles_vocab.png",
+    "formula_svg": "assets/formulas/22_active_passive_narration_articles_vocab.svg",
+    "mindmap_png": "assets/mindmaps/22_active_passive_narration_articles_vocab.png",
+    "mindmap_svg": "assets/mindmaps/22_active_passive_narration_articles_vocab.svg"
+  }
+]

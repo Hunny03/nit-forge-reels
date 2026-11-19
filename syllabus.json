@@ -1,0 +1,422 @@
+[
+  {
+    "id": "m001",
+    "subject": "Maths",
+    "chapter": "Sets, Relations & Functions",
+    "topic": "Sets and Venn counting",
+    "focus": "n(A union B) formulas and a quick counting trick"
+  },
+  {
+    "id": "m002",
+    "subject": "Maths",
+    "chapter": "Sets, Relations & Functions",
+    "topic": "Relations and functions",
+    "focus": "counting relations/functions, one-one and onto tests"
+  },
+  {
+    "id": "m003",
+    "subject": "Maths",
+    "chapter": "Complex Numbers & Quadratics",
+    "topic": "Complex numbers",
+    "focus": "modulus, conjugate, polar form and De Moivre in one view"
+  },
+  {
+    "id": "m004",
+    "subject": "Maths",
+    "chapter": "Complex Numbers & Quadratics",
+    "topic": "Quadratic equations",
+    "focus": "sum/product of roots and discriminant shortcut"
+  },
+  {
+    "id": "m005",
+    "subject": "Maths",
+    "chapter": "Complex Numbers & Quadratics",
+    "topic": "Inequalities",
+    "focus": "sign-scheme (wavy curve) method for inequalities"
+  },
+  {
+    "id": "m006",
+    "subject": "Maths",
+    "chapter": "Sequences & Series",
+    "topic": "AP and GP",
+    "focus": "nth term and sum formulas, one trick to tell AP from GP"
+  },
+  {
+    "id": "m007",
+    "subject": "Maths",
+    "chapter": "Sequences & Series",
+    "topic": "AM-GM-HM",
+    "focus": "inequality AM >= GM >= HM and a quick max/min use"
+  },
+  {
+    "id": "m008",
+    "subject": "Maths",
+    "chapter": "Permutations & Combinations",
+    "topic": "Permutations and combinations",
+    "focus": "nPr vs nCr decision rule with a short example"
+  },
+  {
+    "id": "m009",
+    "subject": "Maths",
+    "chapter": "Permutations & Combinations",
+    "topic": "Circular and repeated arrangements",
+    "focus": "(n-1)! and n!/(p!q!) with an example"
+  },
+  {
+    "id": "m010",
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Binomial expansion",
+    "focus": "general term and middle term"
+  },
+  {
+    "id": "m011",
+    "subject": "Maths",
+    "chapter": "Matrices & Determinants",
+    "topic": "Matrices basics",
+    "focus": "transpose, inverse and adjoint rules"
+  },
+  {
+    "id": "m012",
+    "subject": "Maths",
+    "chapter": "Matrices & Determinants",
+    "topic": "Determinants",
+    "focus": "properties of determinants and a row-operation shortcut"
+  },
+  {
+    "id": "m013",
+    "subject": "Maths",
+    "chapter": "Trigonometry",
+    "topic": "Trig identities",
+    "focus": "sum/difference and double angle formulas in one view"
+  },
+  {
+    "id": "m014",
+    "subject": "Maths",
+    "chapter": "Trigonometry",
+    "topic": "Trig equations",
+    "focus": "general solutions of sin, cos, tan equations"
+  },
+  {
+    "id": "m015",
+    "subject": "Maths",
+    "chapter": "Trigonometry",
+    "topic": "Triangle rules",
+    "focus": "sine rule, cosine rule and area formulas"
+  },
+  {
+    "id": "m016",
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometry",
+    "topic": "Inverse trig functions",
+    "focus": "principal value ranges and identities"
+  },
+  {
+    "id": "m017",
+    "subject": "Maths",
+    "chapter": "Heights & Distances",
+    "topic": "Heights and distances",
+    "focus": "angle of elevation setup and the standard tan trick"
+  },
+  {
+    "id": "m018",
+    "subject": "Maths",
+    "chapter": "Straight Lines",
+    "topic": "Straight lines",
+    "focus": "slope forms, distance of point from line"
+  },
+  {
+    "id": "m019",
+    "subject": "Maths",
+    "chapter": "Circles",
+    "topic": "Circles",
+    "focus": "centre-radius from general equation and tangent condition"
+  },
+  {
+    "id": "m020",
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Parabola",
+    "focus": "standard parabola y^2 = 4ax properties"
+  },
+  {
+    "id": "m021",
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Ellipse and hyperbola",
+    "focus": "eccentricity, foci and latus rectum comparison"
+  },
+  {
+    "id": "m022",
+    "subject": "Maths",
+    "chapter": "Limits & Continuity",
+    "topic": "Limits",
+    "focus": "standard limits table and L Hospital rule"
+  },
+  {
+    "id": "m023",
+    "subject": "Maths",
+    "chapter": "Limits & Continuity",
+    "topic": "Continuity and differentiability",
+    "focus": "how to check both at a point, with |x| example"
+  },
+  {
+    "id": "m024",
+    "subject": "Maths",
+    "chapter": "Differentiation",
+    "topic": "Differentiation rules",
+    "focus": "standard derivatives and chain rule"
+  },
+  {
+    "id": "m025",
+    "subject": "Maths",
+    "chapter": "Differentiation",
+    "topic": "Applications of derivatives",
+    "focus": "tangent/normal and maxima-minima steps"
+  },
+  {
+    "id": "m026",
+    "subject": "Maths",
+    "chapter": "Integration",
+    "topic": "Indefinite integration",
+    "focus": "standard integrals and substitution vs parts (ILATE)"
+  },
+  {
+    "id": "m027",
+    "subject": "Maths",
+    "chapter": "Integration",
+    "topic": "Definite integration",
+    "focus": "properties of definite integrals, even-odd shortcut"
+  },
+  {
+    "id": "m028",
+    "subject": "Maths",
+    "chapter": "Area & Differential Equations",
+    "topic": "Area under curves",
+    "focus": "area between curves setup"
+  },
+  {
+    "id": "m029",
+    "subject": "Maths",
+    "chapter": "Area & Differential Equations",
+    "topic": "Differential equations",
+    "focus": "variable separable and linear first order method"
+  },
+  {
+    "id": "m030",
+    "subject": "Maths",
+    "chapter": "Vectors",
+    "topic": "Vectors",
+    "focus": "dot product, cross product and triple product uses"
+  },
+  {
+    "id": "m031",
+    "subject": "Maths",
+    "chapter": "3D Geometry",
+    "topic": "Three dimensional geometry",
+    "focus": "distance of point from plane, angle between lines"
+  },
+  {
+    "id": "m032",
+    "subject": "Maths",
+    "chapter": "Probability & Statistics",
+    "topic": "Probability",
+    "focus": "conditional probability and Bayes theorem in one example"
+  },
+  {
+    "id": "m033",
+    "subject": "Maths",
+    "chapter": "Probability & Statistics",
+    "topic": "Statistics",
+    "focus": "mean, variance and a shortcut for grouped data"
+  },
+  {
+    "id": "m034",
+    "subject": "Maths",
+    "chapter": "Mathematical Reasoning",
+    "topic": "Mathematical reasoning",
+    "focus": "negation, contrapositive and converse"
+  },
+  {
+    "id": "r035",
+    "subject": "Reasoning",
+    "chapter": "Quant Aptitude",
+    "topic": "Percentage, ratio and averages",
+    "focus": "one fast method for successive percentage change"
+  },
+  {
+    "id": "r036",
+    "subject": "Reasoning",
+    "chapter": "Quant Aptitude",
+    "topic": "Profit, loss, SI and CI",
+    "focus": "CI vs SI quick difference for 2 years"
+  },
+  {
+    "id": "r037",
+    "subject": "Reasoning",
+    "chapter": "Quant Aptitude",
+    "topic": "Time and work",
+    "focus": "LCM method for work problems"
+  },
+  {
+    "id": "r038",
+    "subject": "Reasoning",
+    "chapter": "Quant Aptitude",
+    "topic": "Speed, distance and time",
+    "focus": "relative speed and average speed trick"
+  },
+  {
+    "id": "r039",
+    "subject": "Reasoning",
+    "chapter": "Quant Aptitude",
+    "topic": "Mixtures and number system",
+    "focus": "alligation method and divisibility tricks"
+  },
+  {
+    "id": "r040",
+    "subject": "Reasoning",
+    "chapter": "Logical Reasoning",
+    "topic": "Number series",
+    "focus": "how to spot the pattern type quickly"
+  },
+  {
+    "id": "r041",
+    "subject": "Reasoning",
+    "chapter": "Logical Reasoning",
+    "topic": "Coding-decoding",
+    "focus": "letter shift patterns and opposite letters"
+  },
+  {
+    "id": "r042",
+    "subject": "Reasoning",
+    "chapter": "Logical Reasoning",
+    "topic": "Blood relations",
+    "focus": "family tree method with symbols"
+  },
+  {
+    "id": "r043",
+    "subject": "Reasoning",
+    "chapter": "Logical Reasoning",
+    "topic": "Directions",
+    "focus": "shortest distance with Pythagoras"
+  },
+  {
+    "id": "r044",
+    "subject": "Reasoning",
+    "chapter": "Logical Reasoning",
+    "topic": "Syllogisms",
+    "focus": "Venn diagram method for all/some/no statements"
+  },
+  {
+    "id": "r045",
+    "subject": "Reasoning",
+    "chapter": "Logical Reasoning",
+    "topic": "Seating arrangement",
+    "focus": "linear and circular seating setup steps"
+  },
+  {
+    "id": "r046",
+    "subject": "Reasoning",
+    "chapter": "Logical Reasoning",
+    "topic": "Puzzles",
+    "focus": "table method for puzzle questions"
+  },
+  {
+    "id": "r047",
+    "subject": "Reasoning",
+    "chapter": "Logical Reasoning",
+    "topic": "Venn diagrams",
+    "focus": "representing relations with circles"
+  },
+  {
+    "id": "r048",
+    "subject": "Reasoning",
+    "chapter": "Data Interpretation",
+    "topic": "Data interpretation",
+    "focus": "reading tables and approximation tricks"
+  },
+  {
+    "id": "r049",
+    "subject": "Reasoning",
+    "chapter": "Data Interpretation",
+    "topic": "Data sufficiency and deduction",
+    "focus": "how to decide whether data is sufficient"
+  },
+  {
+    "id": "c050",
+    "subject": "Computer",
+    "chapter": "Number Systems",
+    "topic": "Number systems and binary",
+    "focus": "binary, octal, hex conversion shortcuts"
+  },
+  {
+    "id": "c051",
+    "subject": "Computer",
+    "chapter": "Boolean Algebra",
+    "topic": "Boolean algebra",
+    "focus": "laws and De Morgan with a simplification example"
+  },
+  {
+    "id": "c052",
+    "subject": "Computer",
+    "chapter": "Boolean Algebra",
+    "topic": "Logic gates",
+    "focus": "truth tables and universal gates NAND NOR"
+  },
+  {
+    "id": "c053",
+    "subject": "Computer",
+    "chapter": "Computer Organization",
+    "topic": "Computer organization",
+    "focus": "CPU, memory hierarchy and cache in one view"
+  },
+  {
+    "id": "c054",
+    "subject": "Computer",
+    "chapter": "Operating System",
+    "topic": "Operating system basics",
+    "focus": "process vs thread and scheduling basics"
+  },
+  {
+    "id": "c055",
+    "subject": "Computer",
+    "chapter": "Networking",
+    "topic": "Networking basics",
+    "focus": "OSI layers and common protocols"
+  },
+  {
+    "id": "c056",
+    "subject": "Computer",
+    "chapter": "DBMS",
+    "topic": "DBMS basics",
+    "focus": "keys, normalization and ER basics"
+  },
+  {
+    "id": "c057",
+    "subject": "Computer",
+    "chapter": "DBMS",
+    "topic": "SQL",
+    "focus": "SELECT, WHERE, GROUP BY and JOIN pattern"
+  },
+  {
+    "id": "c058",
+    "subject": "Computer",
+    "chapter": "Programming",
+    "topic": "Programming concepts in C",
+    "focus": "pointers, arrays and loops common traps"
+  },
+  {
+    "id": "c059",
+    "subject": "Computer",
+    "chapter": "Data Structures",
+    "topic": "Data structures basics",
+    "focus": "stack vs queue and tree traversals"
+  },
+  {
+    "id": "c060",
+    "subject": "Computer",
+    "chapter": "MS Office & Internet",
+    "topic": "MS Office, internet and software",
+    "focus": "shortcuts, types of software and web basics"
+  }
+]

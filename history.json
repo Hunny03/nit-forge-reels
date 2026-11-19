@@ -1,0 +1,20 @@
+{
+  "cycle": 1,
+  "total": 2,
+  "done": [
+    "m001",
+    "m002"
+  ],
+  "titles": [
+    {
+      "id": "m001",
+      "title": "NIMCET Sets Trick: Master Venn Diagram Counting",
+      "cycle": 1
+    },
+    {
+      "id": "m002",
+      "title": "Shortcut Trick to Count One-One Functions in NIMCET!",
+      "cycle": 1
+    }
+  ]
+}

@@ -1,9 +1,34 @@
 {
   "cycle": 1,
-  "total": 2,
+  "total": 27,
   "done": [
     "m001",
-    "m002"
+    "m002",
+    "r035",
+    "m003",
+    "c050",
+    "m004",
+    "m005",
+    "r036",
+    "m006",
+    "c051",
+    "m007",
+    "m008",
+    "r037",
+    "m009",
+    "c052",
+    "m010",
+    "m011",
+    "r038",
+    "m012",
+    "c053",
+    "m013",
+    "m014",
+    "r039",
+    "m015",
+    "c054",
+    "m016",
+    "m017"
   ],
   "titles": [
     {
@@ -14,6 +39,131 @@
     {
       "id": "m002",
       "title": "Shortcut Trick to Count One-One Functions in NIMCET!",
+      "cycle": 1
+    },
+    {
+      "id": "r035",
+      "title": "NIMCET Master Successive Percentage Trick",
+      "cycle": 1
+    },
+    {
+      "id": "m003",
+      "title": "Master Complex Numbers in 1 Screen!",
+      "cycle": 1
+    },
+    {
+      "id": "c050",
+      "title": "Master Binary, Octal & Hex Conversions in Seconds",
+      "cycle": 1
+    },
+    {
+      "id": "m004",
+      "title": "Difference of Roots Quadratic Shortcut!",
+      "cycle": 1
+    },
+    {
+      "id": "m005",
+      "title": "Master Wavy Curve Method in 60 Seconds!",
+      "cycle": 1
+    },
+    {
+      "id": "r036",
+      "title": "2-Year CI vs SI Difference Trick!",
+      "cycle": 1
+    },
+    {
+      "id": "m006",
+      "title": "Identify AP vs GP in 5 Seconds | NIMCET Trick",
+      "cycle": 1
+    },
+    {
+      "id": "c051",
+      "title": "Master Boolean Algebra Rules & De Morgan for NIMCET",
+      "cycle": 1
+    },
+    {
+      "id": "m007",
+      "title": "AM-GM-HM Trick for NIMCET",
+      "cycle": 1
+    },
+    {
+      "id": "m008",
+      "title": "Permutations vs Combinations Trick",
+      "cycle": 1
+    },
+    {
+      "id": "r037",
+      "title": "NIMCET Time and Work LCM Trick",
+      "cycle": 1
+    },
+    {
+      "id": "m009",
+      "title": "Circular & Repeated Permutations Trick",
+      "cycle": 1
+    },
+    {
+      "id": "c052",
+      "title": "NIMCET Logic Gates Shortcut",
+      "cycle": 1
+    },
+    {
+      "id": "m010",
+      "title": "NIMCET Shortcut: General Term in Binomial Theorem",
+      "cycle": 1
+    },
+    {
+      "id": "m011",
+      "title": "NIMCET Adjoint Determinant Super Trick",
+      "cycle": 1
+    },
+    {
+      "id": "r038",
+      "title": "NIMCET Speed Trick: Average vs Relative",
+      "cycle": 1
+    },
+    {
+      "id": "m012",
+      "title": "NIMCET Determinant Shortcut Trick",
+      "cycle": 1
+    },
+    {
+      "id": "c053",
+      "title": "NIMCET CPU & Cache Masterclass",
+      "cycle": 1
+    },
+    {
+      "id": "m013",
+      "title": "NIMCET Trigonometry: Double Angle Shortcuts",
+      "cycle": 1
+    },
+    {
+      "id": "m014",
+      "title": "NIMCET Trick: General Solutions of Trig Equations",
+      "cycle": 1
+    },
+    {
+      "id": "r039",
+      "title": "NIMCET Mixtures & Divisibility Mastery",
+      "cycle": 1
+    },
+    {
+      "id": "m015",
+      "title": "NIMCET Trick: Sine and Cosine Rules",
+      "cycle": 1
+    },
+    {
+      "id": "c054",
+      "title": "NIMCET OS: Process vs Thread & Scheduling",
+      "cycle": 1
+    },
+    {
+      "id": "m016",
+      "title": "NIMCET Trick: Inverse Trig Principal Values",
+      "cycle": 1
+    },
+    {
+      "id": "m017",
+      "title": "Heights & Distances: The Tan Trick",
       "cycle": 1
     }
   ]

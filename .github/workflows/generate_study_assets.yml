@@ -1,0 +1,39 @@
+name: Generate NIMCET Study Assets (PNG & SVG)
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Number of chapters to generate (leave blank for all 22)"
+        required: false
+        default: ""
+
+jobs:
+  build-assets:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Matplotlib & Pillow
+        run: pip install matplotlib pillow numpy
+
+      - name: Generate High-Res PNG & SVG Formula Sheets and Mind Maps
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python generate_study_assets.py
+
+      - name: Commit and push generated PNG/SVG assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          git diff --staged --quiet || git commit -m "Generate high-res NIMCET PNG/SVG formula sheets and mind maps"
+          git push

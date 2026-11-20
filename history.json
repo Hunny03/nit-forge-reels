@@ -1,6 +1,6 @@
 {
   "cycle": 1,
-  "total": 27,
+  "total": 52,
   "done": [
     "m001",
     "m002",
@@ -28,7 +28,32 @@
     "m015",
     "c054",
     "m016",
-    "m017"
+    "m017",
+    "c055",
+    "eng_sva_trick",
+    "m030",
+    "m032",
+    "r036",
+    "c052",
+    "eng_tense_cond_trick",
+    "m003",
+    "m006",
+    "r044",
+    "c051",
+    "eng_voice_narration_trick",
+    "m012",
+    "m015",
+    "r038",
+    "c054",
+    "eng_prepo_idiom_trick",
+    "m021",
+    "m024",
+    "r048",
+    "c059",
+    "m008",
+    "m034",
+    "m004",
+    "r045"
   ],
   "titles": [
     {
@@ -165,6 +190,210 @@
       "id": "m017",
       "title": "Heights & Distances: The Tan Trick",
       "cycle": 1
+    },
+    {
+      "id": "c055",
+      "title": "Master OSI Layers & Protocol Tricks",
+      "topic": "Networking basics",
+      "cycle": 1
+    },
+    {
+      "id": "eng_sva_trick",
+      "title": "Subject-Verb Agreement Traps | NIMCET English",
+      "topic": "Subject-Verb Agreement Traps",
+      "cycle": 1
+    },
+    {
+      "id": "m030",
+      "title": "NIMCET Vector Triple Product & Coplanarity Trick",
+      "topic": "Vectors",
+      "cycle": 1
+    },
+    {
+      "id": "m032",
+      "title": "NIMCET Bayes Theorem Trick: Solve in 10 Sec!",
+      "topic": "Probability",
+      "cycle": 1
+    },
+    {
+      "id": "r036",
+      "title": "NIMCET CI vs SI 2-Year Difference Shortcut",
+      "topic": "Profit, loss, SI and CI",
+      "cycle": 1
+    },
+    {
+      "id": "c052",
+      "title": "NIMCET Universal Gates & Truth Table Trick",
+      "topic": "Logic gates",
+      "cycle": 1
+    },
+    {
+      "id": "eng_tense_cond_trick",
+      "title": "NIMCET English: Conditionals Elimination Trick",
+      "topic": "Conditional Sentences Shortcut",
+      "cycle": 1
+    },
+    {
+      "id": "m003",
+      "title": "NIMCET Complex Numbers: Modulus & De Moivre Map",
+      "topic": "Complex numbers",
+      "cycle": 1
+    },
+    {
+      "id": "m006",
+      "title": "NIMCET AP & GP: The Ratio Test Trick",
+      "topic": "AP and GP",
+      "cycle": 1
+    },
+    {
+      "id": "r044",
+      "title": "NIMCET Syllogisms: Venn Diagram Trick",
+      "topic": "Syllogisms",
+      "cycle": 1
+    },
+    {
+      "id": "c051",
+      "title": "NIMCET Boolean Algebra & De Morgan Trick",
+      "topic": "Boolean algebra",
+      "cycle": 1
+    },
+    {
+      "id": "eng_voice_narration_trick",
+      "title": "NIMCET Narration: The Tense-Backshift Trick",
+      "topic": "Tense-Backshift & Modal Trick",
+      "cycle": 1
+    },
+    {
+      "id": "m012",
+      "title": "NIMCET Determinant Row-Ops Shortcut",
+      "topic": "Determinants",
+      "cycle": 1
+    },
+    {
+      "id": "m015",
+      "title": "NIMCET Triangle Rules & Area Masterclass",
+      "topic": "Triangle rules",
+      "cycle": 1
+    },
+    {
+      "id": "r038",
+      "title": "NIMCET Speed Trick: Equal Distance Average Speed",
+      "topic": "Speed, distance and time",
+      "cycle": 1
+    },
+    {
+      "id": "c054",
+      "title": "NIMCET OS: Process vs Thread & Round Robin Trick",
+      "topic": "Operating system basics",
+      "cycle": 1
+    },
+    {
+      "id": "eng_prepo_idiom_trick",
+      "title": "NIMCET English: Fixed Prepositions & Traps",
+      "topic": "Fixed Prepositions & High-Freq Traps",
+      "cycle": 1
+    },
+    {
+      "id": "m021",
+      "title": "NIMCET Ellipse vs Hyperbola Core Cheat Sheet",
+      "topic": "Ellipse and hyperbola",
+      "cycle": 1
+    },
+    {
+      "id": "m024",
+      "title": "NIMCET Calculus: Chain Rule 5-Sec Hack",
+      "topic": "Differentiation rules",
+      "cycle": 1
+    },
+    {
+      "id": "r048",
+      "title": "NIMCET Data Interpretation: The 10 Percent Approximation Hac",
+      "topic": "Data interpretation",
+      "cycle": 1
+    },
+    {
+      "id": "c059",
+      "title": "NIMCET Stack, Queue & Tree Traversal Hacks",
+      "topic": "Data structures basics",
+      "cycle": 1
+    },
+    {
+      "id": "m008",
+      "title": "NIMCET Permutations vs Combinations Hack",
+      "topic": "Permutations and combinations",
+      "cycle": 1
+    },
+    {
+      "id": "m034",
+      "title": "NIMCET Reasoning: Converse & Contrapositive Hack",
+      "topic": "Mathematical reasoning",
+      "cycle": 1
+    },
+    {
+      "id": "m004",
+      "title": "NIMCET Quadratics: The Discriminant Trick",
+      "topic": "Quadratic equations",
+      "cycle": 1
+    },
+    {
+      "id": "r045",
+      "title": "NIMCET Seating Arrangement: The Anchor Trick",
+      "topic": "Seating arrangement",
+      "cycle": 1
     }
+  ],
+  "used_topics": [
+    "computer|boolean algebra|boolean algebra",
+    "computer|boolean algebra|logic gates",
+    "computer|data structures|data structures basics",
+    "computer|networking|networking basics",
+    "computer|operating system|operating system basics",
+    "english|active-passive & narration|tense-backshift & modal trick",
+    "english|grammar & error spotting|subject-verb agreement traps",
+    "english|tenses & conditionals|conditional sentences shortcut",
+    "english|vocabulary & usage|fixed prepositions & high-freq traps",
+    "maths|complex numbers & quadratics|complex numbers",
+    "maths|complex numbers & quadratics|quadratic equations",
+    "maths|conic sections|ellipse and hyperbola",
+    "maths|differentiation|differentiation rules",
+    "maths|mathematical reasoning|mathematical reasoning",
+    "maths|matrices & determinants|determinants",
+    "maths|permutations & combinations|permutations and combinations",
+    "maths|probability & statistics|probability",
+    "maths|sequences & series|ap and gp",
+    "maths|trigonometry|triangle rules",
+    "maths|vectors|vectors",
+    "reasoning|data interpretation|data interpretation",
+    "reasoning|logical reasoning|seating arrangement",
+    "reasoning|logical reasoning|syllogisms",
+    "reasoning|quant aptitude|profit, loss, si and ci",
+    "reasoning|quant aptitude|speed, distance and time"
+  ],
+  "used_sigs": [
+    "1074f9757bc9",
+    "1a5ebee53cea",
+    "2784c872c334",
+    "2788ba149404",
+    "30076a81682e",
+    "323ca0a8d67b",
+    "33d4e7c88fea",
+    "38f28c08eefc",
+    "48bf0b1b6efd",
+    "4b800b8241d9",
+    "55d01227b066",
+    "5f5df4d3ceee",
+    "6c41f2470b0f",
+    "8e6ef800e185",
+    "aa1c3b703a68",
+    "b9ec9a724b5f",
+    "c50e920a077d",
+    "d23a8e24b218",
+    "d3c8fa4956b6",
+    "e387f9431398",
+    "ecba27c6dbf4",
+    "f153a6997145",
+    "f2c4d9f5557b",
+    "f90399a1058f",
+    "faf7a589d572"
   ]
 }

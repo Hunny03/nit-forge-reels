@@ -1,5 +1,130 @@
 [
   {
+    "title": "NIMCET Seating Arrangement: The Anchor Trick",
+    "topic": "Reasoning • Logical Reasoning",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0052_reasoning.mp4"
+  },
+  {
+    "title": "NIMCET Quadratics: The Discriminant Trick",
+    "topic": "Maths • Complex Numbers & Quadratics",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0051_maths.mp4"
+  },
+  {
+    "title": "NIMCET Reasoning: Converse & Contrapositive Hack",
+    "topic": "Maths • Mathematical Reasoning",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0050_maths.mp4"
+  },
+  {
+    "title": "NIMCET Permutations vs Combinations Hack",
+    "topic": "Maths • Permutations & Combinations",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0049_maths.mp4"
+  },
+  {
+    "title": "NIMCET Stack, Queue & Tree Traversal Hacks",
+    "topic": "Computer • Data Structures",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0048_computer.mp4"
+  },
+  {
+    "title": "NIMCET Data Interpretation: The 10 Percent Approximation Hac",
+    "topic": "Reasoning • Data Interpretation",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0047_reasoning.mp4"
+  },
+  {
+    "title": "NIMCET Calculus: Chain Rule 5-Sec Hack",
+    "topic": "Maths • Differentiation",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0046_maths.mp4"
+  },
+  {
+    "title": "NIMCET Ellipse vs Hyperbola Core Cheat Sheet",
+    "topic": "Maths • Conic Sections",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0045_maths.mp4"
+  },
+  {
+    "title": "NIMCET English: Fixed Prepositions & Traps",
+    "topic": "English • Vocabulary & Usage",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0044_english.mp4"
+  },
+  {
+    "title": "NIMCET OS: Process vs Thread & Round Robin Trick",
+    "topic": "Computer • Operating System",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0043_computer.mp4"
+  },
+  {
+    "title": "NIMCET Speed Trick: Equal Distance Average Speed",
+    "topic": "Reasoning • Quant Aptitude",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0042_reasoning.mp4"
+  },
+  {
+    "title": "NIMCET Triangle Rules & Area Masterclass",
+    "topic": "Maths • Trigonometry",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0041_maths.mp4"
+  },
+  {
+    "title": "NIMCET Determinant Row-Ops Shortcut",
+    "topic": "Maths • Matrices & Determinants",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0040_maths.mp4"
+  },
+  {
+    "title": "NIMCET Narration: The Tense-Backshift Trick",
+    "topic": "English • Active-Passive & Narration",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0039_english.mp4"
+  },
+  {
+    "title": "NIMCET Boolean Algebra & De Morgan Trick",
+    "topic": "Computer • Boolean Algebra",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0038_computer.mp4"
+  },
+  {
+    "title": "NIMCET Syllogisms: Venn Diagram Trick",
+    "topic": "Reasoning • Logical Reasoning",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0037_reasoning.mp4"
+  },
+  {
+    "title": "NIMCET AP & GP: The Ratio Test Trick",
+    "topic": "Maths • Sequences & Series",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0036_maths.mp4"
+  },
+  {
+    "title": "NIMCET Complex Numbers: Modulus & De Moivre Map",
+    "topic": "Maths • Complex Numbers & Quadratics",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0035_maths.mp4"
+  },
+  {
+    "title": "NIMCET English: Conditionals Elimination Trick",
+    "topic": "English • Tenses & Conditionals",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0034_english.mp4"
+  },
+  {
+    "title": "NIMCET Universal Gates & Truth Table Trick",
+    "topic": "Computer • Boolean Algebra",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0033_computer.mp4"
+  },
+  {
+    "title": "NIMCET CI vs SI 2-Year Difference Shortcut",
+    "topic": "Reasoning • Quant Aptitude",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0032_reasoning.mp4"
+  },
+  {
+    "title": "NIMCET Bayes Theorem Trick: Solve in 10 Sec!",
+    "topic": "Maths • Probability & Statistics",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0031_maths.mp4"
+  },
+  {
+    "title": "NIMCET Vector Triple Product & Coplanarity Trick",
+    "topic": "Maths • Vectors",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0030_maths.mp4"
+  },
+  {
+    "title": "Subject-Verb Agreement Traps | NIMCET English",
+    "topic": "English • Grammar & Error Spotting",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0029_english.mp4"
+  },
+  {
+    "title": "Master OSI Layers & Protocol Tricks",
+    "topic": "Computer • Networking",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0028_computer.mp4"
+  },
+  {
     "title": "Heights & Distances: The Tan Trick",
     "topic": "Maths • Heights & Distances",
     "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0027_maths.mp4"

@@ -1,5 +1,130 @@
 [
   {
+    "title": "NIMCET Time & Work: The LCM Efficiency Hack",
+    "topic": "Reasoning • Quant Aptitude",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0077_reasoning.mp4"
+  },
+  {
+    "title": "NIMCET Linear D.E. Hack",
+    "topic": "Maths • Area & Differential Equations",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0076_maths.mp4"
+  },
+  {
+    "title": "NIMCET Matrices: Adjoint & Inverse Speed Hacks",
+    "topic": "Maths • Matrices & Determinants",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0075_maths.mp4"
+  },
+  {
+    "title": "NIMCET P&C: Circular & Repeated Hack",
+    "topic": "Maths • Permutations & Combinations",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0074_maths.mp4"
+  },
+  {
+    "title": "NIMCET Computer: Binary Hex Speed Hack",
+    "topic": "Computer • Number Systems",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0073_computer.mp4"
+  },
+  {
+    "title": "NIMCET Data Sufficiency: The Independence Rule",
+    "topic": "Reasoning • Data Interpretation",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0072_reasoning.mp4"
+  },
+  {
+    "title": "NIMCET Sets: The Venn Overlap Hack",
+    "topic": "Maths • Sets, Relations & Functions",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0071_maths.mp4"
+  },
+  {
+    "title": "NIMCET Parabola: Standard Properties & Shortcut",
+    "topic": "Maths • Conic Sections",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0070_maths.mp4"
+  },
+  {
+    "title": "NIMCET Computer: MS Office & Web Hack",
+    "topic": "Computer • MS Office & Internet",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0069_computer.mp4"
+  },
+  {
+    "title": "NIMCET Computer: CPU & Cache Memory Flash Hack",
+    "topic": "Computer • Computer Organization",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0068_computer.mp4"
+  },
+  {
+    "title": "NIMCET Reasoning: Number Series Pattern Hack",
+    "topic": "Reasoning • Logical Reasoning",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0067_reasoning.mp4"
+  },
+  {
+    "title": "NIMCET Relations: Counting & Mapping Trick",
+    "topic": "Maths • Sets, Relations & Functions",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0066_maths.mp4"
+  },
+  {
+    "title": "NIMCET Definite Integration: Even Odd Trick",
+    "topic": "Maths • Integration",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0065_maths.mp4"
+  },
+  {
+    "title": "NIMCET Trig Master: General Solutions & Hack",
+    "topic": "Maths • Trigonometry",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0064_maths.mp4"
+  },
+  {
+    "title": "NIMCET SQL: The 4-Step Clause Order Hack",
+    "topic": "Computer • DBMS",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0063_computer.mp4"
+  },
+  {
+    "title": "NIMCET Puzzles: The Matrix Grid Method",
+    "topic": "Reasoning • Logical Reasoning",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0062_reasoning.mp4"
+  },
+  {
+    "title": "NIMCET AM-GM-H-M: The Extreme Value Hack",
+    "topic": "Maths • Sequences & Series",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0061_maths.mp4"
+  },
+  {
+    "title": "NIMCET Statistics: The Grouped Mean Variance Shortcut",
+    "topic": "Maths • Probability & Statistics",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0060_maths.mp4"
+  },
+  {
+    "title": "NIMCET Blood Relations: The Family Tree Method",
+    "topic": "Reasoning • Logical Reasoning",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0059_reasoning.mp4"
+  },
+  {
+    "title": "NIMCET DBMS: Keys, Normalization & ER Hacks",
+    "topic": "Computer • DBMS",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0058_computer.mp4"
+  },
+  {
+    "title": "NIMCET Directions: The Pythagoras Shortest Path Hack",
+    "topic": "Reasoning • Logical Reasoning",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0057_reasoning.mp4"
+  },
+  {
+    "title": "NIMCET Limits: Standard Formulas & L'Hopital Trick",
+    "topic": "Maths • Limits & Continuity",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0056_maths.mp4"
+  },
+  {
+    "title": "NIMCET Heights & Distances: The Tan Ratio Hack",
+    "topic": "Maths • Heights & Distances",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0055_maths.mp4"
+  },
+  {
+    "title": "NIMCET Trick: Modulus Continuity & Differentiability",
+    "topic": "Maths • Limits & Continuity",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0054_maths.mp4"
+  },
+  {
+    "title": "NIMCET C Pointer Trap: Operator Precedence Hack",
+    "topic": "Computer • Programming",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0053_computer.mp4"
+  },
+  {
     "title": "NIMCET Seating Arrangement: The Anchor Trick",
     "topic": "Reasoning • Logical Reasoning",
     "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0052_reasoning.mp4"

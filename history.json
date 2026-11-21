@@ -1,6 +1,6 @@
 {
   "cycle": 3,
-  "total": 177,
+  "total": 202,
   "done": [
     "m020",
     "r041",
@@ -23,7 +23,32 @@
     "eng_prepo_idiom_trick",
     "m016",
     "m026",
-    "r035"
+    "r035",
+    "c054",
+    "m021",
+    "m015",
+    "m031",
+    "r037",
+    "c055",
+    "m006",
+    "m027",
+    "m009",
+    "r046",
+    "c058",
+    "m005",
+    "m019",
+    "m008",
+    "r049",
+    "c050",
+    "m025",
+    "m034",
+    "m033",
+    "r036",
+    "c060",
+    "m023",
+    "m017",
+    "m007",
+    "r044"
   ],
   "titles": [
     {
@@ -1060,6 +1085,156 @@
       "title": "NIMCET Percentage: Net Effect Successive Hack",
       "topic": "Percentage, ratio and averages",
       "cycle": 3
+    },
+    {
+      "id": "c054",
+      "title": "NIMCET OS: Process Thread & SJF Hack",
+      "topic": "Operating system basics",
+      "cycle": 3
+    },
+    {
+      "id": "m021",
+      "title": "NIMCET Conics: Ellipse vs Hyperbola Flash Hack",
+      "topic": "Ellipse and hyperbola",
+      "cycle": 3
+    },
+    {
+      "id": "m015",
+      "title": "NIMCET Trigonometry: Triangle Rules Flash Hack",
+      "topic": "Triangle rules",
+      "cycle": 3
+    },
+    {
+      "id": "m031",
+      "title": "NIMCET 3D Geometry: Plane Distance & Line Angle Hack",
+      "topic": "Three dimensional geometry",
+      "cycle": 3
+    },
+    {
+      "id": "r037",
+      "title": "NIMCET Quant: Time & Work LCM Speed Hack",
+      "topic": "Time and work",
+      "cycle": 3
+    },
+    {
+      "id": "c055",
+      "title": "NIMCET Net: OSI Layer & Protocol Hack",
+      "topic": "Networking basics",
+      "cycle": 3
+    },
+    {
+      "id": "m006",
+      "title": "NIMCET Sequences: AP vs GP Ratio Hack",
+      "topic": "AP and GP",
+      "cycle": 3
+    },
+    {
+      "id": "m027",
+      "title": "NIMCET Integration: Even-Odd Symmetry Speed Hack",
+      "topic": "Definite integration",
+      "cycle": 3
+    },
+    {
+      "id": "m009",
+      "title": "NIMCET P&C: Circular & Repeated Hack",
+      "topic": "Circular and repeated arrangements",
+      "cycle": 3
+    },
+    {
+      "id": "r046",
+      "title": "NIMCET Logical Puzzles: Table Method Grid Hack",
+      "topic": "Puzzles",
+      "cycle": 3
+    },
+    {
+      "id": "c058",
+      "title": "NIMCET C Pointers & Arrays Speed Hack",
+      "topic": "Programming concepts in C",
+      "cycle": 3
+    },
+    {
+      "id": "m005",
+      "title": "NIMCET Complex: Wavy Curve Inequality Speed Hack",
+      "topic": "Inequalities",
+      "cycle": 3
+    },
+    {
+      "id": "m019",
+      "title": "NIMCET Circles: Centre Radius & Tangent Hack",
+      "topic": "Circles",
+      "cycle": 3
+    },
+    {
+      "id": "m008",
+      "title": "NIMCET P&C: nPr vs nCr Decision Flash Hack",
+      "topic": "Permutations and combinations",
+      "cycle": 3
+    },
+    {
+      "id": "r049",
+      "title": "NIMCET Data Sufficiency Statement Elimination Hack",
+      "topic": "Data sufficiency and deduction",
+      "cycle": 3
+    },
+    {
+      "id": "c050",
+      "title": "NIMCET Computer: Number Systems Base Conversion Flash Hack",
+      "topic": "Number systems and binary",
+      "cycle": 3
+    },
+    {
+      "id": "m025",
+      "title": "NIMCET AOD: Tangents & Maxima Flash Hack",
+      "topic": "Applications of derivatives",
+      "cycle": 3
+    },
+    {
+      "id": "m034",
+      "title": "NIMCET Logic: Converse & Contrapositive Flash Hack",
+      "topic": "Mathematical reasoning",
+      "cycle": 3
+    },
+    {
+      "id": "m033",
+      "title": "NIMCET Statistics: Mean & Variance Flash Hack",
+      "topic": "Statistics",
+      "cycle": 3
+    },
+    {
+      "id": "r036",
+      "title": "NIMCET CI vs SI 2-Year Speed Hack",
+      "topic": "Profit, loss, SI and CI",
+      "cycle": 3
+    },
+    {
+      "id": "c060",
+      "title": "NIMCET MS Office & Internet Flash Hack",
+      "topic": "MS Office, internet and software",
+      "cycle": 3
+    },
+    {
+      "id": "m023",
+      "title": "NIMCET Calculus: Modulus Continuity & Differentiability Hack",
+      "topic": "Continuity and differentiability",
+      "cycle": 3
+    },
+    {
+      "id": "m017",
+      "title": "NIMCET Heights & Distances: The Tan Ratio Hack",
+      "topic": "Heights and distances",
+      "cycle": 3
+    },
+    {
+      "id": "m007",
+      "title": "NIMCET Sequences: AM-GM-HM Flash Hack",
+      "topic": "AM-GM-HM",
+      "cycle": 3
+    },
+    {
+      "id": "r044",
+      "title": "NIMCET Syllogism Venn Diagram Speed Hack",
+      "topic": "Syllogisms",
+      "cycle": 3
     }
   ],
   "used_topics": [
@@ -1067,30 +1242,57 @@
     "computer|computer organization|computer organization",
     "computer|dbms|dbms basics",
     "computer|dbms|sql",
+    "computer|ms office & internet|ms office, internet and software",
+    "computer|networking|networking basics",
+    "computer|number systems|number systems and binary",
+    "computer|operating system|operating system basics",
+    "computer|programming|programming concepts in c",
     "english|active-passive & narration|tense-backshift & modal trick",
     "english|grammar & error spotting|subject-verb agreement traps",
     "english|tenses & conditionals|conditional sentences shortcut",
     "english|vocabulary & usage|fixed prepositions & high-freq traps",
+    "maths|3d geometry|three dimensional geometry",
     "maths|area & differential equations|differential equations",
+    "maths|circles|circles",
+    "maths|complex numbers & quadratics|inequalities",
     "maths|complex numbers & quadratics|quadratic equations",
+    "maths|conic sections|ellipse and hyperbola",
     "maths|conic sections|parabola",
+    "maths|differentiation|applications of derivatives",
+    "maths|heights & distances|heights and distances",
+    "maths|integration|definite integration",
     "maths|integration|indefinite integration",
     "maths|inverse trigonometry|inverse trig functions",
+    "maths|limits & continuity|continuity and differentiability",
+    "maths|mathematical reasoning|mathematical reasoning",
     "maths|matrices & determinants|matrices basics",
+    "maths|permutations & combinations|circular and repeated arrangements",
+    "maths|permutations & combinations|permutations and combinations",
+    "maths|probability & statistics|statistics",
+    "maths|sequences & series|am-gm-hm",
+    "maths|sequences & series|ap and gp",
     "maths|sets, relations & functions|sets and venn counting",
     "maths|straight lines|straight lines",
+    "maths|trigonometry|triangle rules",
     "maths|vectors|vectors",
+    "reasoning|data interpretation|data sufficiency and deduction",
     "reasoning|logical reasoning|coding-decoding",
     "reasoning|logical reasoning|directions",
+    "reasoning|logical reasoning|puzzles",
+    "reasoning|logical reasoning|syllogisms",
     "reasoning|logical reasoning|venn diagrams",
     "reasoning|quant aptitude|percentage, ratio and averages",
-    "reasoning|quant aptitude|speed, distance and time"
+    "reasoning|quant aptitude|profit, loss, si and ci",
+    "reasoning|quant aptitude|speed, distance and time",
+    "reasoning|quant aptitude|time and work"
   ],
   "used_sigs": [
     "00f5591e0b5d",
     "016cdb15b753",
+    "0266ef9a8824",
     "05e9a92393ff",
     "060b2a175413",
+    "0cbe9793c339",
     "0d02556cbd4e",
     "0f40dcb4973b",
     "1074f9757bc9",
@@ -1123,6 +1325,7 @@
     "363ff361ee1b",
     "366229ef0025",
     "379da811ddc8",
+    "37b02c04309a",
     "38a74db23b72",
     "38f28c08eefc",
     "395c1f09e3c7",
@@ -1134,18 +1337,25 @@
     "41ca12744190",
     "429978d02095",
     "43075716586a",
+    "458eb2666e69",
+    "460c400c144f",
     "46b991b455b2",
     "48bf0b1b6efd",
     "4997191f012f",
     "4b3ec685b81c",
     "4b800b8241d9",
+    "4d8c7d9c150e",
     "51783ff0caac",
     "55d01227b066",
+    "55e750b1b7db",
     "5b85da047c87",
     "5cae29516437",
     "5e8bf17ded19",
     "5f5df4d3ceee",
+    "6353b3b56cff",
+    "6427ae6898bd",
     "653e96dce4b4",
+    "67395683fe86",
     "68dcdae158bb",
     "6c41f2470b0f",
     "6dedbded7702",
@@ -1163,6 +1373,7 @@
     "7e174e35e286",
     "7e20023d3746",
     "806e81695c4b",
+    "8274f57e310d",
     "854bdca56a3b",
     "8761645b50b8",
     "87acb2f373eb",
@@ -1170,7 +1381,12 @@
     "8ddd3c236164",
     "8e6ef800e185",
     "8feba471f33b",
+    "9431830063e6",
+    "9480edbfc25d",
+    "96ad8ea1c7fd",
     "977a30f59af5",
+    "98fa6c53e3fa",
+    "9a978a13bb15",
     "9e58a7381434",
     "9fbc416fca3f",
     "a2c1b3ea1a49",
@@ -1180,17 +1396,23 @@
     "a7f0e53b1469",
     "a7f29eba4f48",
     "aa1c3b703a68",
+    "acaaaf33f018",
+    "aff187cf3cb2",
     "b00ccf99a13d",
     "b4c0d711c1b5",
     "b9b29b6b42c7",
     "b9ec9a724b5f",
     "bae1cbd44b24",
+    "bd98e686d5a4",
+    "be9534485b3b",
     "c0963683dad8",
+    "c1c534c1c2b7",
     "c1d344f032f2",
     "c20185c2830e",
     "c3fc18294018",
     "c50e920a077d",
     "c9bc2d1483dd",
+    "c9e707f949ef",
     "caf1750f63f9",
     "cd54a6434df2",
     "cd7d9a240bc7",
@@ -1225,6 +1447,7 @@
     "f6645c461334",
     "f69774c803cd",
     "f90399a1058f",
+    "f964406eb6c2",
     "faac61756176",
     "fabe41b97489",
     "faf7a589d572",

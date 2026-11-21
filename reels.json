@@ -1,5 +1,130 @@
 [
   {
+    "title": "NIMCET Time and Work: LCM Method Hack",
+    "topic": "Reasoning • Quant Aptitude",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0302_reasoning.mp4"
+  },
+  {
+    "title": "NIMCET Wavy Curve Inequality Flash Hack",
+    "topic": "Maths • Complex Numbers & Quadratics",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0301_maths.mp4"
+  },
+  {
+    "title": "NIMCET Derivative Max-Min & Tangent Flash Hack",
+    "topic": "Maths • Differentiation",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0300_maths.mp4"
+  },
+  {
+    "title": "NIMCET English: Conditional Tenses Flash Hack",
+    "topic": "English • Tenses & Conditionals",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0299_english.mp4"
+  },
+  {
+    "title": "NIMCET Computer: Base Conversion Power Flash Hack",
+    "topic": "Computer • Number Systems",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0298_computer.mp4"
+  },
+  {
+    "title": "NIMCET Reasoning: Puzzle Matrix Flash Hack",
+    "topic": "Reasoning • Logical Reasoning",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0297_reasoning.mp4"
+  },
+  {
+    "title": "NIMCET Sequences: AM-GM-HM Flash Hack",
+    "topic": "Maths • Sequences & Series",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0296_maths.mp4"
+  },
+  {
+    "title": "NIMCET Differential Equations: Flash Hack",
+    "topic": "Maths • Area & Differential Equations",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0295_maths.mp4"
+  },
+  {
+    "title": "NIMCET English: Tense & Modal Flash Hack",
+    "topic": "English • Active-Passive & Narration",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0294_english.mp4"
+  },
+  {
+    "title": "NIMCET Computer: Memory Hierarchy & Cache Flash Hack",
+    "topic": "Computer • Computer Organization",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0293_computer.mp4"
+  },
+  {
+    "title": "NIMCET Venn Diagrams: Intersection Region Hack",
+    "topic": "Reasoning • Logical Reasoning",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0292_reasoning.mp4"
+  },
+  {
+    "title": "NIMCET Trig General Solutions Flash Hack",
+    "topic": "Maths • Trigonometry",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0291_maths.mp4"
+  },
+  {
+    "title": "NIMCET Functions: Counting & Mapping Flash Hack",
+    "topic": "Maths • Sets, Relations & Functions",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0290_maths.mp4"
+  },
+  {
+    "title": "NIMCET English: Subject-Verb Agreement Hack",
+    "topic": "English • Grammar & Error Spotting",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0289_english.mp4"
+  },
+  {
+    "title": "NIMCET Boolean Algebra: De Morgan Flash Hack",
+    "topic": "Computer • Boolean Algebra",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0288_computer.mp4"
+  },
+  {
+    "title": "NIMCET CI minus SI 2 Years Flash Hack",
+    "topic": "Reasoning • Quant Aptitude",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0287_reasoning.mp4"
+  },
+  {
+    "title": "NIMCET Continuity vs Differentiability Hack",
+    "topic": "Maths • Limits & Continuity",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0286_maths.mp4"
+  },
+  {
+    "title": "NIMCET Trigonometry: Dual-Angle Formula Flash Hack",
+    "topic": "Maths • Trigonometry",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0285_maths.mp4"
+  },
+  {
+    "title": "NIMCET English: Fixed Preposition Hack",
+    "topic": "English • Vocabulary & Usage",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0284_english.mp4"
+  },
+  {
+    "title": "NIMCET Vectors: Product Uses Flash Hack",
+    "topic": "Maths • Vectors",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0283_maths.mp4"
+  },
+  {
+    "title": "NIMCET Reasoning: Coding-Decoding Letter Hack",
+    "topic": "Reasoning • Logical Reasoning",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0282_reasoning.mp4"
+  },
+  {
+    "title": "NIMCET Parabola: Focus-Directrix Flash Hack",
+    "topic": "Maths • Conic Sections",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0281_maths.mp4"
+  },
+  {
+    "title": "NIMCET Matrices: Adjoint & Inverse Flash Hack",
+    "topic": "Maths • Matrices & Determinants",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0280_maths.mp4"
+  },
+  {
+    "title": "NIMCET Speed & Distance: Harmonic Speed Hack",
+    "topic": "Reasoning • Quant Aptitude",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0279_reasoning.mp4"
+  },
+  {
+    "title": "NIMCET Trig Equations: Solution Hack",
+    "topic": "Maths • Trigonometry",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0278_maths.mp4"
+  },
+  {
     "title": "NIMCET CI vs SI 2 Years Flash Hack",
     "topic": "Reasoning • Quant Aptitude",
     "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0277_reasoning.mp4"

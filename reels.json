@@ -1,5 +1,130 @@
 [
   {
+    "title": "NIMCET Reasoning: Puzzle Matrix Grid Hack",
+    "topic": "Reasoning • Logical Reasoning",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0477_reasoning.mp4"
+  },
+  {
+    "title": "NIMCET Reasoning: Negation & Contrapositive Flash Hack",
+    "topic": "Maths • Mathematical Reasoning",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0476_maths.mp4"
+  },
+  {
+    "title": "NIMCET Matrices: Adjoint and Inverse Flash Hack",
+    "topic": "Maths • Matrices & Determinants",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0475_maths.mp4"
+  },
+  {
+    "title": "NIMCET Vectors: Triple Product & Shortcut Hack",
+    "topic": "Maths • Vectors",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0474_maths.mp4"
+  },
+  {
+    "title": "NIMCET Calculus: Integration Substitution & ILATE Hack",
+    "topic": "Maths • Integration",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0473_maths.mp4"
+  },
+  {
+    "title": "NIMCET Prob: Bayes Theorem Flash Hack",
+    "topic": "Maths • Probability & Statistics",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0472_maths.mp4"
+  },
+  {
+    "title": "NIMCET Relations: Counting & Mapping Flash Hack",
+    "topic": "Maths • Sets, Relations & Functions",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0471_maths.mp4"
+  },
+  {
+    "title": "NIMCET P&C: Circular & Repeated Hack",
+    "topic": "Maths • Permutations & Combinations",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0470_maths.mp4"
+  },
+  {
+    "title": "NIMCET Reasoning: Syllogism Venn Circles Hack",
+    "topic": "Reasoning • Logical Reasoning",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0469_reasoning.mp4"
+  },
+  {
+    "title": "NIMCET Circles: Centre Radius & Tangent Hack",
+    "topic": "Maths • Circles",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0468_maths.mp4"
+  },
+  {
+    "title": "NIMCET Reasoning: Blood Relations Family Tree Hack",
+    "topic": "Reasoning • Logical Reasoning",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0467_reasoning.mp4"
+  },
+  {
+    "title": "NIMCET Permutations: Order Matters vs Grouping Hack",
+    "topic": "Maths • Permutations & Combinations",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0466_maths.mp4"
+  },
+  {
+    "title": "NIMCET Calculus: Chain Rule & Standard Derivative Hack",
+    "topic": "Maths • Differentiation",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0465_maths.mp4"
+  },
+  {
+    "title": "NIMCET Calculus: Area Between Curves Setup Hack",
+    "topic": "Maths • Area & Differential Equations",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0464_maths.mp4"
+  },
+  {
+    "title": "NIMCET Calculus: The Even Odd Integration Hack",
+    "topic": "Maths • Integration",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0463_maths.mp4"
+  },
+  {
+    "title": "NIMCET Reasoning: Venn Diagram Subset Trick",
+    "topic": "Reasoning • Logical Reasoning",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0462_reasoning.mp4"
+  },
+  {
+    "title": "NIMCET Heights: Elevation & Tan Ratio Hack",
+    "topic": "Maths • Heights & Distances",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0461_maths.mp4"
+  },
+  {
+    "title": "NIMCET ITF: Principal Ranges & Fast Evaluation Hack",
+    "topic": "Maths • Inverse Trigonometry",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0460_maths.mp4"
+  },
+  {
+    "title": "NIMCET Comp: Base Conversion Grouping Hack",
+    "topic": "Computer • Number Systems",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0459_computer.mp4"
+  },
+  {
+    "title": "NIMCET Comp: De Morgan & Boolean Simplification Hack",
+    "topic": "Computer • Boolean Algebra",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0458_computer.mp4"
+  },
+  {
+    "title": "NIMCET Quant: Successive Percentage Hack",
+    "topic": "Reasoning • Quant Aptitude",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0457_reasoning.mp4"
+  },
+  {
+    "title": "NIMCET Limits: Modulus Continuity & Corner Trick",
+    "topic": "Maths • Limits & Continuity",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0456_maths.mp4"
+  },
+  {
+    "title": "NIMCET Determinants: Row Sum & Zero Hack",
+    "topic": "Maths • Matrices & Determinants",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0455_maths.mp4"
+  },
+  {
+    "title": "NIMCET DE: Linear Differential Equation & I.F. Hack",
+    "topic": "Maths • Area & Differential Equations",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0454_maths.mp4"
+  },
+  {
+    "title": "NIMCET OS: Process Thread & Scheduling Hack",
+    "topic": "Computer • Operating System",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0453_computer.mp4"
+  },
+  {
     "title": "NIMCET: Speed, Distance & Time Flash Hack",
     "topic": "Reasoning • Quant Aptitude",
     "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0452_reasoning.mp4"

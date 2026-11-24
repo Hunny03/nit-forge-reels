@@ -1,9 +1,25 @@
 {
   "cycle": 8,
-  "total": 477,
+  "total": 493,
   "done": [
     "m034",
-    "r046"
+    "r046",
+    "c054",
+    "eng_voice_narration_trick",
+    "m018",
+    "m001",
+    "r040",
+    "c052",
+    "eng_sva_trick",
+    "m022",
+    "m007",
+    "r041",
+    "c051",
+    "eng_tense_cond_trick",
+    "m030",
+    "m017",
+    "r049",
+    "c057"
   ],
   "titles": [
     {
@@ -2840,16 +2856,129 @@
       "title": "NIMCET Reasoning: Puzzle Matrix Grid Hack",
       "topic": "Puzzles",
       "cycle": 8
+    },
+    {
+      "id": "c054",
+      "title": "NIMCET OS: Thread Resource Sharing Flash Trick",
+      "topic": "Operating system basics",
+      "cycle": 8
+    },
+    {
+      "id": "eng_voice_narration_trick",
+      "title": "NIMCET English: Narration vs Passive Modal Hack",
+      "topic": "Tense-Backshift & Modal Trick",
+      "cycle": 8
+    },
+    {
+      "id": "m018",
+      "title": "NIMCET Lines: Point Distance & Parallel Hack",
+      "topic": "Straight lines",
+      "cycle": 8
+    },
+    {
+      "id": "m001",
+      "title": "NIMCET Sets: Fast Venn Union Trick",
+      "topic": "Sets and Venn counting",
+      "cycle": 8
+    },
+    {
+      "id": "r040",
+      "title": "NIMCET Reasoning: Rapid Number Series Hack",
+      "topic": "Number series",
+      "cycle": 8
+    },
+    {
+      "id": "c052",
+      "title": "NIMCET Comp: Universal Gates & NAND Shortcut Hack",
+      "topic": "Logic gates",
+      "cycle": 8
+    },
+    {
+      "id": "eng_sva_trick",
+      "title": "NIMCET English: Subject Verb Agreement Trap",
+      "topic": "Subject-Verb Agreement Traps",
+      "cycle": 8
+    },
+    {
+      "id": "m022",
+      "title": "NIMCET Limits: L'Hopital & Power Hack",
+      "topic": "Limits",
+      "cycle": 8
+    },
+    {
+      "id": "m007",
+      "title": "NIMCET Sequences: AM-GM Inequality Hack",
+      "topic": "AM-GM-HM",
+      "cycle": 8
+    },
+    {
+      "id": "r041",
+      "title": "NIMCET Reasoning: Coding Shift & Opposite Letter Hack",
+      "topic": "Coding-decoding",
+      "cycle": 8
+    },
+    {
+      "id": "c051",
+      "title": "NIMCET Computer: De Morgan Simplification Flash Hack",
+      "topic": "Boolean algebra",
+      "cycle": 8
+    },
+    {
+      "id": "eng_tense_cond_trick",
+      "title": "NIMCET English: Conditionals Elimination Hack",
+      "topic": "Conditional Sentences Shortcut",
+      "cycle": 8
+    },
+    {
+      "id": "m030",
+      "title": "NIMCET Vectors: Product Power Hack",
+      "topic": "Vectors",
+      "cycle": 8
+    },
+    {
+      "id": "m017",
+      "title": "NIMCET Heights: The Tan Shadow Trick",
+      "topic": "Heights and distances",
+      "cycle": 8
+    },
+    {
+      "id": "r049",
+      "title": "NIMCET Data Sufficiency Statement Elimination Hack",
+      "topic": "Data sufficiency and deduction",
+      "cycle": 8
+    },
+    {
+      "id": "c057",
+      "title": "NIMCET DBMS: SQL JOIN & Grouping Hack",
+      "topic": "SQL",
+      "cycle": 8
     }
   ],
   "used_topics": [
+    "computer|boolean algebra|boolean algebra",
+    "computer|boolean algebra|logic gates",
+    "computer|dbms|sql",
+    "computer|operating system|operating system basics",
+    "english|active-passive & narration|tense-backshift & modal trick",
+    "english|grammar & error spotting|subject-verb agreement traps",
+    "english|tenses & conditionals|conditional sentences shortcut",
+    "maths|heights & distances|heights and distances",
+    "maths|limits & continuity|limits",
     "maths|mathematical reasoning|mathematical reasoning",
+    "maths|sequences & series|am-gm-hm",
+    "maths|sets, relations & functions|sets and venn counting",
+    "maths|straight lines|straight lines",
+    "maths|vectors|vectors",
+    "reasoning|data interpretation|data sufficiency and deduction",
+    "reasoning|logical reasoning|coding-decoding",
+    "reasoning|logical reasoning|number series",
     "reasoning|logical reasoning|puzzles"
   ],
   "used_sigs": [
     "005271b8a9e7",
     "00f5591e0b5d",
     "016cdb15b753",
+    "018dc2683fe1",
     "0266ef9a8824",
     "047009aa0125",
     "05e9a92393ff",
@@ -2857,9 +2986,11 @@
     "072e15df73b5",
     "0745854b428d",
     "078ad504ae5e",
+    "08270d59681d",
     "08515bc6d19f",
     "085dd7a397ee",
     "09f9b85018d2",
+    "0a489090122c",
     "0ab9608d4a0b",
     "0b9c2865f0fe",
     "0ba7eb8f0b6d",
@@ -2868,6 +2999,7 @@
     "0d2aa16b043b",
     "0db60defa24a",
     "0eb152f75366",
+    "0f21a7f37fe4",
     "0f40dcb4973b",
     "0f9a8bc07946",
     "1074f9757bc9",
@@ -2876,6 +3008,7 @@
     "125954014049",
     "130be5d59945",
     "1354b747a19e",
+    "138ef37a477c",
     "14322a458f76",
     "15a972c2a1ce",
     "15c2c6e8843e",
@@ -2942,6 +3075,7 @@
     "395c1f09e3c7",
     "399aeea71409",
     "3a2031d0bb23",
+    "3a9f16a2ac33",
     "3ac9df83bd26",
     "3aebe1a0702d",
     "3c139de2f94e",
@@ -2958,6 +3092,7 @@
     "41998c22b9d3",
     "41ca12744190",
     "41cd308dc180",
+    "427dc020961e",
     "429978d02095",
     "43075716586a",
     "4385cd112160",
@@ -3007,6 +3142,7 @@
     "5f5df4d3ceee",
     "5fb97dc9c86e",
     "60d344a29540",
+    "60da2f3a54ec",
     "61bf2a810b05",
     "62faa8089e01",
     "6353b3b56cff",
@@ -3016,6 +3152,7 @@
     "67395683fe86",
     "68afe0b6b6b7",
     "68dcdae158bb",
+    "69a345f02abe",
     "69dfa1ee7f2c",
     "6c41f2470b0f",
     "6d856e1a8741",
@@ -3054,12 +3191,14 @@
     "81ca8ed46ab2",
     "8274f57e310d",
     "854bdca56a3b",
+    "8683238051cc",
     "8730fc67e671",
     "8760fdd1abb8",
     "8761645b50b8",
     "87acb2f373eb",
     "883c4d9cb527",
     "898f1b27d16d",
+    "89d3cdb5cda8",
     "8a4f62f6230a",
     "8a5218a78b70",
     "8a7266bf26d7",
@@ -3088,6 +3227,7 @@
     "9df84c50f5fa",
     "9e58a7381434",
     "9fb2762c0f7a",
+    "9fbafd170dd4",
     "9fbc416fca3f",
     "a00fd413901a",
     "a1217e713422",
@@ -3097,6 +3237,7 @@
     "a2c1b3ea1a49",
     "a3775b13082d",
     "a4430bf894f1",
+    "a549aa834b1c",
     "a60d0fe63669",
     "a6856eb43ec7",
     "a714ab8432fd",
@@ -3145,6 +3286,7 @@
     "c43de5b5b5f9",
     "c50e920a077d",
     "c5179096ed66",
+    "c687dd46db92",
     "c80903681bc9",
     "c8c33047a3b6",
     "c9bc2d1483dd",

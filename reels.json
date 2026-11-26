@@ -1,5 +1,130 @@
 [
   {
+    "title": "NIMCET Relations: The Mapping Speed Hack!",
+    "topic": "Maths • Sets, Relations & Functions",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0760_maths.mp4"
+  },
+  {
+    "title": "NIMCET Calculus: Tangent & Max-Min Speed Hack!",
+    "topic": "Maths • Differentiation",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0759_maths.mp4"
+  },
+  {
+    "title": "NIMCET Comp: NAND NOR Universal Gates Hack!",
+    "topic": "Computer • Boolean Algebra",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0758_computer.mp4"
+  },
+  {
+    "title": "NIMCET Reasoning: Seating Setup Hack!",
+    "topic": "Reasoning • Logical Reasoning",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0757_reasoning.mp4"
+  },
+  {
+    "title": "NIMCET P&C: Order Matters Trick!",
+    "topic": "Maths • Permutations & Combinations",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0756_maths.mp4"
+  },
+  {
+    "title": "NIMCET Sets: The Venn Counting Hack!",
+    "topic": "Maths • Sets, Relations & Functions",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0755_maths.mp4"
+  },
+  {
+    "title": "NIMCET Comp: SQL Query Order & Join Hack!",
+    "topic": "Computer • DBMS",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0754_computer.mp4"
+  },
+  {
+    "title": "NIMCET Comp: OSI Layers & Protocol Match Hack!",
+    "topic": "Computer • Networking",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0753_computer.mp4"
+  },
+  {
+    "title": "NIMCET Reasoning: Number Series Differential Speed Hack!",
+    "topic": "Reasoning • Logical Reasoning",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0752_reasoning.mp4"
+  },
+  {
+    "title": "NIMCET Integration: The Even-Odd Function Hack!",
+    "topic": "Maths • Integration",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0751_maths.mp4"
+  },
+  {
+    "title": "NIMCET Integration: The ILATE Master Hack!",
+    "topic": "Maths • Integration",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0750_maths.mp4"
+  },
+  {
+    "title": "NIMCET English: Narration & Voice Backshift Hack!",
+    "topic": "English • Active-Passive & Narration",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0749_english.mp4"
+  },
+  {
+    "title": "NIMCET Comp: CPU & Cache Memory Speed Hack!",
+    "topic": "Computer • Computer Organization",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0748_computer.mp4"
+  },
+  {
+    "title": "NIMCET Speed: Equal Distance Average Speed Hack!",
+    "topic": "Reasoning • Quant Aptitude",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0747_reasoning.mp4"
+  },
+  {
+    "title": "NIMCET Calculus: The Inside-Out Chain Rule Hack!",
+    "topic": "Maths • Differentiation",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0746_maths.mp4"
+  },
+  {
+    "title": "NIMCET Area: The Top Minus Bottom Hack!",
+    "topic": "Maths • Area & Differential Equations",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0745_maths.mp4"
+  },
+  {
+    "title": "NIMCET English: Fixed Prepositions Trap Hack!",
+    "topic": "English • Vocabulary & Usage",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0744_english.mp4"
+  },
+  {
+    "title": "NIMCET Comp: Process vs Thread & CPU Scheduling Hack!",
+    "topic": "Computer • Operating System",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0743_computer.mp4"
+  },
+  {
+    "title": "NIMCET Percentage: Successive Multiplier Speed Hack!",
+    "topic": "Reasoning • Quant Aptitude",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0742_reasoning.mp4"
+  },
+  {
+    "title": "NIMCET 3D Geometry: Distance & Angle Speed Hack!",
+    "topic": "Maths • 3D Geometry",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0741_maths.mp4"
+  },
+  {
+    "title": "NIMCET Quadratics: The Discriminant & Roots Hack!",
+    "topic": "Maths • Complex Numbers & Quadratics",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0740_maths.mp4"
+  },
+  {
+    "title": "NIMCET English: Subject-Verb Traps Hack",
+    "topic": "English • Grammar & Error Spotting",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0739_english.mp4"
+  },
+  {
+    "title": "NIMCET Comp: Pointers & Arrays Trap Hack!",
+    "topic": "Computer • Programming",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0738_computer.mp4"
+  },
+  {
+    "title": "NIMCET Reasoning: Pythagoras Direction Distance Hack!",
+    "topic": "Reasoning • Logical Reasoning",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0737_reasoning.mp4"
+  },
+  {
+    "title": "NIMCET Binomial: General & Middle Term Hack!",
+    "topic": "Maths • Binomial Theorem",
+    "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0736_maths.mp4"
+  },
+  {
     "title": "NIMCET Ellipse vs Hyperbola Magic Hack!",
     "topic": "Maths • Conic Sections",
     "url": "https://raw.githubusercontent.com/Hunny03/nit-forge-reels/main/videos/reel_0735_maths.mp4"

@@ -1,11 +1,36 @@
 {
   "cycle": 12,
-  "total": 735,
+  "total": 760,
   "done": [
     "r046",
     "c056",
     "eng_tense_cond_trick",
-    "m021"
+    "m021",
+    "m010",
+    "r043",
+    "c058",
+    "eng_sva_trick",
+    "m004",
+    "m031",
+    "r035",
+    "c054",
+    "eng_prepo_idiom_trick",
+    "m028",
+    "m024",
+    "r038",
+    "c053",
+    "eng_voice_narration_trick",
+    "m026",
+    "m027",
+    "r040",
+    "c055",
+    "c057",
+    "m001",
+    "m008",
+    "r045",
+    "c052",
+    "m025",
+    "m002"
   ],
   "titles": [
     {
@@ -4390,16 +4415,192 @@
       "title": "NIMCET Ellipse vs Hyperbola Magic Hack!",
       "topic": "Ellipse and hyperbola",
       "cycle": 12
+    },
+    {
+      "id": "m010",
+      "title": "NIMCET Binomial: General & Middle Term Hack!",
+      "topic": "Binomial expansion",
+      "cycle": 12
+    },
+    {
+      "id": "r043",
+      "title": "NIMCET Reasoning: Pythagoras Direction Distance Hack!",
+      "topic": "Directions",
+      "cycle": 12
+    },
+    {
+      "id": "c058",
+      "title": "NIMCET Comp: Pointers & Arrays Trap Hack!",
+      "topic": "Programming concepts in C",
+      "cycle": 12
+    },
+    {
+      "id": "eng_sva_trick",
+      "title": "NIMCET English: Subject-Verb Traps Hack",
+      "topic": "Subject-Verb Agreement Traps",
+      "cycle": 12
+    },
+    {
+      "id": "m004",
+      "title": "NIMCET Quadratics: The Discriminant & Roots Hack!",
+      "topic": "Quadratic equations",
+      "cycle": 12
+    },
+    {
+      "id": "m031",
+      "title": "NIMCET 3D Geometry: Distance & Angle Speed Hack!",
+      "topic": "Three dimensional geometry",
+      "cycle": 12
+    },
+    {
+      "id": "r035",
+      "title": "NIMCET Percentage: Successive Multiplier Speed Hack!",
+      "topic": "Percentage, ratio and averages",
+      "cycle": 12
+    },
+    {
+      "id": "c054",
+      "title": "NIMCET Comp: Process vs Thread & CPU Scheduling Hack!",
+      "topic": "Operating system basics",
+      "cycle": 12
+    },
+    {
+      "id": "eng_prepo_idiom_trick",
+      "title": "NIMCET English: Fixed Prepositions Trap Hack!",
+      "topic": "Fixed Prepositions & High-Freq Traps",
+      "cycle": 12
+    },
+    {
+      "id": "m028",
+      "title": "NIMCET Area: The Top Minus Bottom Hack!",
+      "topic": "Area under curves",
+      "cycle": 12
+    },
+    {
+      "id": "m024",
+      "title": "NIMCET Calculus: The Inside-Out Chain Rule Hack!",
+      "topic": "Differentiation rules",
+      "cycle": 12
+    },
+    {
+      "id": "r038",
+      "title": "NIMCET Speed: Equal Distance Average Speed Hack!",
+      "topic": "Speed, distance and time",
+      "cycle": 12
+    },
+    {
+      "id": "c053",
+      "title": "NIMCET Comp: CPU & Cache Memory Speed Hack!",
+      "topic": "Computer organization",
+      "cycle": 12
+    },
+    {
+      "id": "eng_voice_narration_trick",
+      "title": "NIMCET English: Narration & Voice Backshift Hack!",
+      "topic": "Tense-Backshift & Modal Trick",
+      "cycle": 12
+    },
+    {
+      "id": "m026",
+      "title": "NIMCET Integration: The ILATE Master Hack!",
+      "topic": "Indefinite integration",
+      "cycle": 12
+    },
+    {
+      "id": "m027",
+      "title": "NIMCET Integration: The Even-Odd Function Hack!",
+      "topic": "Definite integration",
+      "cycle": 12
+    },
+    {
+      "id": "r040",
+      "title": "NIMCET Reasoning: Number Series Differential Speed Hack!",
+      "topic": "Number series",
+      "cycle": 12
+    },
+    {
+      "id": "c055",
+      "title": "NIMCET Comp: OSI Layers & Protocol Match Hack!",
+      "topic": "Networking basics",
+      "cycle": 12
+    },
+    {
+      "id": "c057",
+      "title": "NIMCET Comp: SQL Query Order & Join Hack!",
+      "topic": "SQL",
+      "cycle": 12
+    },
+    {
+      "id": "m001",
+      "title": "NIMCET Sets: The Venn Counting Hack!",
+      "topic": "Sets and Venn counting",
+      "cycle": 12
+    },
+    {
+      "id": "m008",
+      "title": "NIMCET P&C: Order Matters Trick!",
+      "topic": "Permutations and combinations",
+      "cycle": 12
+    },
+    {
+      "id": "r045",
+      "title": "NIMCET Reasoning: Seating Setup Hack!",
+      "topic": "Seating arrangement",
+      "cycle": 12
+    },
+    {
+      "id": "c052",
+      "title": "NIMCET Comp: NAND NOR Universal Gates Hack!",
+      "topic": "Logic gates",
+      "cycle": 12
+    },
+    {
+      "id": "m025",
+      "title": "NIMCET Calculus: Tangent & Max-Min Speed Hack!",
+      "topic": "Applications of derivatives",
+      "cycle": 12
+    },
+    {
+      "id": "m002",
+      "title": "NIMCET Relations: The Mapping Speed Hack!",
+      "topic": "Relations and functions",
+      "cycle": 12
     }
   ],
   "used_topics": [
+    "computer|boolean algebra|logic gates",
+    "computer|computer organization|computer organization",
     "computer|dbms|dbms basics",
+    "computer|dbms|sql",
+    "computer|networking|networking basics",
+    "computer|operating system|operating system basics",
+    "computer|programming|programming concepts in c",
+    "english|active-passive & narration|tense-backshift & modal trick",
+    "english|grammar & error spotting|subject-verb agreement traps",
     "english|tenses & conditionals|conditional sentences shortcut",
+    "english|vocabulary & usage|fixed prepositions & high-freq traps",
+    "maths|3d geometry|three dimensional geometry",
+    "maths|area & differential equations|area under curves",
+    "maths|binomial theorem|binomial expansion",
+    "maths|complex numbers & quadratics|quadratic equations",
     "maths|conic sections|ellipse and hyperbola",
-    "reasoning|logical reasoning|puzzles"
+    "maths|differentiation|applications of derivatives",
+    "maths|differentiation|differentiation rules",
+    "maths|integration|definite integration",
+    "maths|integration|indefinite integration",
+    "maths|permutations & combinations|permutations and combinations",
+    "maths|sets, relations & functions|relations and functions",
+    "maths|sets, relations & functions|sets and venn counting",
+    "reasoning|logical reasoning|directions",
+    "reasoning|logical reasoning|number series",
+    "reasoning|logical reasoning|puzzles",
+    "reasoning|logical reasoning|seating arrangement",
+    "reasoning|quant aptitude|percentage, ratio and averages",
+    "reasoning|quant aptitude|speed, distance and time"
   ],
   "used_sigs": [
     "00254c2a0f02",
+    "002b72e376be",
     "005271b8a9e7",
     "00f5591e0b5d",
     "0102abb2d444",
@@ -4465,6 +4666,7 @@
     "1c9857ff9b67",
     "1ca766448f10",
     "1cbbd8905ab3",
+    "1da4e4e4efa7",
     "1de20efca54f",
     "1e6bb017138d",
     "1e6c45e565c5",
@@ -4506,6 +4708,7 @@
     "2b4f443ee8d7",
     "2bea5145d93b",
     "2c8a0c01b985",
+    "2c9ecc5de8b6",
     "2cb27c727148",
     "2ccd6e5f2167",
     "2d40800ee5fe",
@@ -4591,12 +4794,14 @@
     "460c400c144f",
     "46b991b455b2",
     "4716af107415",
+    "4887c7468ba6",
     "4890080cab55",
     "48bf0b1b6efd",
     "492a5ccc4156",
     "4997191f012f",
     "4a040cb7b8d3",
     "4a7baae24e60",
+    "4ab95597c1ce",
     "4ace5e820d8a",
     "4b3ec685b81c",
     "4b800b8241d9",
@@ -4618,6 +4823,7 @@
     "51b1b6642986",
     "51d7b9dca1e3",
     "51fd1cb46e41",
+    "52ad8dc4d748",
     "533cf3b42152",
     "5391ea4ecd9d",
     "53a98d0ae76b",
@@ -4642,6 +4848,7 @@
     "5c5a00796896",
     "5c8b2eef3be1",
     "5cae29516437",
+    "5cd47e5d9886",
     "5cfa0b035db7",
     "5d719d5a525c",
     "5e8bf17ded19",
@@ -4720,6 +4927,7 @@
     "7df9288998d4",
     "7e174e35e286",
     "7e20023d3746",
+    "7eeaebac7ec5",
     "7f1bfb1c28b7",
     "7f3f887f8b4c",
     "802400dfe091",
@@ -4757,6 +4965,7 @@
     "8d09fd1624cb",
     "8d1f48605c93",
     "8d22ffabb2fd",
+    "8d59be4074de",
     "8dd068b9be03",
     "8ddd3c236164",
     "8e6ef800e185",
@@ -4766,8 +4975,11 @@
     "9003860c4beb",
     "9045ad6a3bed",
     "907240e2cbc1",
+    "91237cd04ad9",
+    "91c1d78d7943",
     "91e89dc088dc",
     "9267230c823b",
+    "92caa878b549",
     "92f523b75ade",
     "9343f23336d5",
     "9431830063e6",
@@ -4775,6 +4987,7 @@
     "96ad8ea1c7fd",
     "96dccb2b3a46",
     "977a30f59af5",
+    "97a5c928921e",
     "980b08e31658",
     "9882a6f7f833",
     "98a38cac5612",
@@ -4805,6 +5018,7 @@
     "a1b1a1ee9a3d",
     "a2a9ffa6289b",
     "a2c1b3ea1a49",
+    "a36aa07121ca",
     "a3775b13082d",
     "a3efbb8eafe1",
     "a4430bf894f1",
@@ -4826,6 +5040,7 @@
     "aa1c3b703a68",
     "aa5247361afb",
     "aaec53e2deb4",
+    "ab0bcd16c1e7",
     "ab94c350be40",
     "ac320b1cf5f0",
     "acaaaf33f018",
@@ -4846,6 +5061,7 @@
     "b1f3151c4503",
     "b21bde734c5c",
     "b25a395ac5ee",
+    "b2cdee6b1fc4",
     "b37cbe9dbc69",
     "b4c0d711c1b5",
     "b575358f67b8",
@@ -4867,6 +5083,7 @@
     "bd98e686d5a4",
     "be26cd4e8c7d",
     "be9534485b3b",
+    "bf73b2239542",
     "bff12f49c6b4",
     "bff7fd78a396",
     "c05b04d51bda",
@@ -4888,6 +5105,7 @@
     "c5feabfc9042",
     "c6150e1eb6e8",
     "c687dd46db92",
+    "c6d83752adf4",
     "c74bcfeefd1a",
     "c7b30c084159",
     "c7f1b6cbd67c",
@@ -4935,6 +5153,7 @@
     "d908717c5545",
     "d90adbaf9e02",
     "d93fcff5a9ce",
+    "d940b20ff284",
     "d95b3d067388",
     "d9797b7e5bad",
     "d99cdd9b0ae5",
@@ -4950,6 +5169,7 @@
     "dca0e2d05349",
     "dcf1b2fb41ab",
     "de4dcd71ea37",
+    "de63805003d5",
     "dedf6f23b7f7",
     "df08f924ee48",
     "df6e04078112",
@@ -4958,6 +5178,7 @@
     "e026f368c04b",
     "e047c279d44f",
     "e06f37123fae",
+    "e16b29b89c4d",
     "e1a56d32d72e",
     "e1ebbfe021ca",
     "e1fe85bd9c6e",
@@ -4965,6 +5186,7 @@
     "e387f9431398",
     "e3ac4bd09a51",
     "e41651b692bc",
+    "e44f57245879",
     "e45afcddf2d5",
     "e642b7b00d40",
     "e67d2ccfd0a2",
